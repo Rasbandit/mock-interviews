@@ -14,6 +14,7 @@ The interview itself will be broken up into 3 parts, the HR questions, Technical
 
 ### HR Questions
 
+<details><summary>HR</summary>
 Typically we have the HR mentor take the lead on the discussion and start by asking the student a few questions from this list, this should not take up a majority of the time so typically limit it to 3 questions.
 
 - Tell us a little bit about yourself.
@@ -23,7 +24,7 @@ Typically we have the HR mentor take the lead on the discussion and start by ask
 - If you could have one superpower, what would it be and why?
 - What do you expect from our company?
 - How are you hoping to grow during your time with our company?
-
+</details>
 
 ### Technical Questions
 
@@ -33,6 +34,7 @@ Also this list is not the definitive list, feel free to use what ever.
 
 #### HTML/CSS
 
+<details><summary>HTML/CSS</summary>
 - What is a selector.
 - Describe the box model.
 - Describe how you would make a paper card effect in CSS ( Like the products on Jane.com ).
@@ -42,9 +44,11 @@ Also this list is not the definitive list, feel free to use what ever.
 - Describe Pseudo selectors in CSS.
 - How could you make a star using CSS shapes only.
 - What is the transform property and how does it work *
+</details>
 
 #### JavaScript
 
+<details><summary>JavaScript</summary>
 - Describe closures and why they are important.
 - Describe context.
 - What is hoisting.
@@ -59,9 +63,11 @@ Also this list is not the definitive list, feel free to use what ever.
 - What is a prototype in JavaScript?
 - What’s the difference between == and === in JavaScript?
 - What is event bubbling in the DOM?
-
+</details>
 
 #### React
+
+<details><summary>React</summary>
 - What is a component?
 - What’s the difference between an element and a Component?
 - What is setState and what does it do?
@@ -73,12 +79,14 @@ Also this list is not the definitive list, feel free to use what ever.
 - How is React different from vanilla JS, jQuery, and Angular?
 - What is unidirectional data flow in React?
 - How can you as a developer force  a react component to require certain props to exist on this.props?
-
+</details>
 
 #### White Board
 
+<details><summary>White Board</summary>
 - Write an algorithm that can find prime numbers.
 - Write an algorithm that writes the Fibonacci sequence.
+</details>
 
 ### Questions about the company
 
