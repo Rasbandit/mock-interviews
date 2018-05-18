@@ -15,6 +15,7 @@ The interview itself will be broken up into 3 parts, the HR questions, Technical
 ### HR Questions
 
 <details><summary>HR</summary>
+
 Typically we have the HR mentor take the lead on the discussion and start by asking the student a few questions from this list, this should not take up a majority of the time so typically limit it to 3 questions.
 
 - Tell us a little bit about yourself.
@@ -35,6 +36,7 @@ Also this list is not the definitive list, feel free to use what ever.
 #### HTML/CSS
 
 <details><summary>HTML/CSS</summary>
+
 - What is a selector.
 - Describe the box model.
 - Describe how you would make a paper card effect in CSS ( Like the products on Jane.com ).
@@ -49,6 +51,7 @@ Also this list is not the definitive list, feel free to use what ever.
 #### JavaScript
 
 <details><summary>JavaScript</summary>
+
 - Describe closures and why they are important.
 - Describe context.
 - What is hoisting.
@@ -68,6 +71,7 @@ Also this list is not the definitive list, feel free to use what ever.
 #### React
 
 <details><summary>React</summary>
+
 - What is a component?
 - What’s the difference between an element and a Component?
 - What is setState and what does it do?
@@ -84,6 +88,7 @@ Also this list is not the definitive list, feel free to use what ever.
 #### White Board
 
 <details><summary>White Board</summary>
+
 - Write an algorithm that can find prime numbers.
 - Write an algorithm that writes the Fibonacci sequence.
 </details>
