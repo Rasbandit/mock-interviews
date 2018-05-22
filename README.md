@@ -91,6 +91,7 @@ Also this list is not the definitive list, feel free to use what ever.
 
 - Write an algorithm that can find prime numbers.
 - Write an algorithm that writes the Fibonacci sequence.
+- Write an algorithm that converts a cabob case string to a camel case.
 </details>
 
 ### Questions about the company
