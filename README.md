@@ -35,17 +35,19 @@ Also this list is not the definitive list, feel free to use what ever.
 
 #### HTML/CSS
 
+One of the questions we found that works super well is giving the student a layout from a website and ask them how they would approach making that layout and where they would draw boxes and why. and what tags they would use to position things.
+
 <details><summary>HTML/CSS</summary>
 
-- What is a selector.
-- Describe the box model.
-- Describe how you would make a paper card effect in CSS ( Like the products on Jane.com ).
+- What is a selector?
+- Describe the box model?
+- Describe how you would make a paper card effect in CSS ( Like the products on Jane.com )?
 - What are the different properties for position and how do they work.
-- What is the difference between caret ( < ) comma ( , ) and space (  ) in a css selector.
+- What is the difference between caret ( < ) comma ( , ) and space (  ) in a css selector?
 - How could you make a circle in CSS.
 - Describe Pseudo selectors in CSS.
-- How could you make a star using CSS shapes only.
-- What is the transform property and how does it work *
+- How could you make a star using CSS shapes only?
+- What is the transform property and how does it work?
 </details>
 
 #### JavaScript
