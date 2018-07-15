@@ -93,6 +93,7 @@ One of the questions we found that works super well is giving the student a layo
 
 - Write an algorithm that can find prime numbers.
 - Write an algorithm that writes the Fibonacci sequence.
+- Write an algorithm that converts a cabob case string to a camel case.
 </details>
 
 ### Questions about the company
