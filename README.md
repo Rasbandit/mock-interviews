@@ -25,6 +25,7 @@ Typically we have the HR mentor take the lead on the discussion and start by ask
 - If you could have one superpower, what would it be and why?
 - What do you expect from our company?
 - How are you hoping to grow during your time with our company?
+- Can you tell us about a time you had to solve a problem under pressure.
 </details>
 
 ### Technical Questions
